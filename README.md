@@ -1,4 +1,4 @@
-# Shrawn Gym — gym management system
+# gym management system
 
 Front-desk dashboard for a single gym: members, check-in by **RFID card, QR code or thumbprint**, renewal reminders, attendance, follow-ups and add-ons.
 
